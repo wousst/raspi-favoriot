@@ -1,6 +1,6 @@
 Connecting Raspi with FAVORIOT
 ==============================
-A simple workaround on how to connect Raspi with IoT FAVORIOT middleware platform. 
+A simple backend feeder connecting Raspi to FAVORIOT middleware platform. 
 
 Author
 ------
